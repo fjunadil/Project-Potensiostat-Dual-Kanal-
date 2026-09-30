@@ -1,0 +1,6 @@
+iorodeo-potentiostat
+matplotlib
+pyserial
+numpy
+RPi.GPIO; platform_system == "Linux"
+pytest
